@@ -85,3 +85,9 @@ select {
 .deficit {
   color: var(--light-green);
 }
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
